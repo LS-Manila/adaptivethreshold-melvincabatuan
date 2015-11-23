@@ -201,4 +201,4 @@ $ git push -u origin master
 
 [![screenshot](screenshot_001.png)](https://youtu.be/9PIN2xaOcM8)
 
-"*Programming can be fun, so can cryptography; however they should not be combined.*" -  Kreitzberg and Shneiderman
+"*Everyone knows that debugging is twice as hard as writing a program in the first place. So if you are as clever as you can be when you write it, how will you ever debug it?*" -  Brian Kernighan
